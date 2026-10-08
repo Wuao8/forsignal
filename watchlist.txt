@@ -3,3 +3,4 @@
 # COPPIA,PREZZO
 
 EUR/USD,1.12228
+usd/jpy,158.033
