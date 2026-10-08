@@ -1,0 +1,5 @@
+# FOREX Signals
+# Formato:
+# COPPIA,PREZZO
+
+EUR/USD,1.20000
